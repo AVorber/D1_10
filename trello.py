@@ -5,7 +5,7 @@ import sys
 # Данные авторизации в API Trello
 auth_params = {
     "key": "your_key",
-    "token": "uour_token",
+    "token": "your_token",
 }
 # Адрес, на котором расположен API Trello, # Именно туда мы будем отправлять HTTP запросы.
 base_url = "https://api.trello.com/1/{}"
